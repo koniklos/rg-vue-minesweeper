@@ -4,6 +4,10 @@
 
 Created as a final project for the "Extended Introduction to Web Development" seminar by [REvive Greece](https://revivegreece.org "REvive Greece Homepage"), hosted at INNOVATHENS powered by Samsung in Athens, Greece.
 
+## Live demo
+
+[https://rg-vue-minesweeper.koniklos.now.sh](https://rg-vue-minesweeper.koniklos.now.sh "Live demo")
+
 ## Project setup
 
 ```
